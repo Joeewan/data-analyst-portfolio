@@ -122,3 +122,18 @@ FROM nfl_jersey_sales
 GROUP BY Player_Name, Team
 ORDER BY Total_Revenue DESC
 LIMIT 5;
+
+
+-- 6 Total Revenue Between Hats and Jersey by Team
+
+SELECT 
+    j.Team,
+    SUM(j.Quantity_Sold * j.Price_Per_Jersey) AS Jersey_Revenue,
+    SUM(h.Quantity_Sold * h.Price_Per_Hat) AS Hat_Revenue,
+    SUM(j.Quantity_Sold * j.Price_Per_Jersey + h.Quantity_Sold * h.Price_Per_Hat) AS Total_Revenue
+FROM nfl_jersey_sales j
+JOIN nfl_hat_sales h 
+    ON j.Team = h.Team AND j.Region = h.Region
+GROUP BY j.Team
+ORDER BY Total_Revenue DESC;
+
