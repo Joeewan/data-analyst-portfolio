@@ -62,21 +62,21 @@ VALUES
 INSERT INTO nfl_hat_sales (Sale_ID, Team, Region, Quantity_Sold, Price_Per_Hat, Sale_Date)
 
 VALUES
-(1, 'Chiefs', 'Midwest', 40, 24.99, '2024-07-15'),
-(2, 'Packers', 'Midwest', 35, 22.99, '2024-07-15'),
-(3, 'Seahawks', 'West', 25, 23.99, '2024-08-02'),
-(4, 'Rams', 'West', 30, 21.99, '2024-08-03'),
-(5, 'Cowboys', 'South', 38, 25.50, '2024-08-05'),
-(6, 'Bengals', 'Midwest', 28, 21.99, '2024-08-10'),
-(7, 'Browns', 'Midwest', 33, 23.50, '2024-08-12'),
-(8, 'Colts', 'Midwest', 29, 22.75, '2024-08-15'),
-(9, 'Patriots', 'Northeast', 32, 26.99, '2024-08-15'),
-(10, 'Eagles', 'Northeast', 30, 25.49, '2024-08-20'),
-(11, 'Bills', 'Northeast', 27, 23.50, '2024-08-22'),
-(12, 'Raiders', 'West', 36, 24.75, '2024-08-25'),
-(13, 'Steelers', 'Northeast', 31, 24.25, '2024-09-01'),
-(14, 'Saints', 'South', 28, 23.99, '2024-09-05'),
-(15, 'Dolphins', 'South', 34, 25.25, '2024-09-08');
+(1, 'Kansas City Chiefs', 'Midwest', 40, 24.99, '2024-07-15'),
+(2, 'Green Bay Packers', 'Midwest', 35, 22.99, '2024-07-15'),
+(3, 'Seattle Seahawks', 'West', 25, 23.99, '2024-08-02'),
+(4, 'Los Angeles Rams', 'West', 30, 21.99, '2024-08-03'),
+(5, 'Dallas Cowboys', 'South', 38, 25.50, '2024-08-05'),
+(6, 'Cincinnati Bengals', 'Midwest', 28, 21.99, '2024-08-10'),
+(7, 'Cleveland Browns', 'Midwest', 33, 23.50, '2024-08-12'),
+(8, 'Indianapolis Colts', 'Midwest', 29, 22.75, '2024-08-15'),
+(9, 'New England Patriots', 'Northeast', 32, 26.99, '2024-08-15'),
+(10, 'Philadelphia Eagles', 'Northeast', 30, 25.49, '2024-08-20'),
+(11, 'Buffalo Bills', 'Northeast', 27, 23.50, '2024-08-22'),
+(12, 'Las Vegas Raiders', 'West', 36, 24.75, '2024-08-25'),
+(13, 'Pittsburgh Steelers', 'Northeast', 31, 24.25, '2024-09-01'),
+(14, 'New Orleans Saints', 'South', 28, 23.99, '2024-09-05'),
+(15, 'Miami Dolphins', 'South', 34, 25.25, '2024-09-08');
 
 -- ============================================
 -- STEP 3: ANALYTICAL QUERIES
