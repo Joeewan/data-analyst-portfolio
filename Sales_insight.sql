@@ -39,7 +39,7 @@ VALUES
     (18, 'Puka Nacua', 'Los Angeles Rams', 4, 119.99, 'West Coast', '2025-11-01'),
     (19, 'Jared Verse', 'Los Angeles Rams', 2, 134.99, 'West Coast', '2025-11-20'),
     (20, 'Cooper Kupp', 'Seattle Seahawks', 3, 124.99, 'West Coast', '2025-11-28'),
-    (21, 'DK Metcalf', 'Pittsburgh Steelers', 4, 129.99, 'Northeast', '2025-12-05'),
+    (21, 'DK Metcalf', 'Pittsburgh Steelers', 4, 129.99, 'Northeast', '2025-10-05'),
     (22, 'Geno Smith', 'Las Vegas Raiders', 2, 109.99, 'West Coast', '2025-12-10'),
     (23, 'Shedeur Sanders', 'Cleveland Browns', 3, 124.99, 'Midwest', '2025-12-18'),
     (24, 'Nick Cross', 'Indianapolis Colts', 2, 114.99, 'Midwest', '2025-12-22'),
