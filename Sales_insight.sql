@@ -15,6 +15,15 @@ CREATE TABLE nfl_jersey_sales (
     Sale_Date DATE
 );
 
+CREATE TABLE nfl_hat_sales (
+    Sale_ID INT PRIMARY KEY,
+    Team VARCHAR(50),
+    Region VARCHAR(50),
+    Quantity_Sold INT,
+    Price_Per_Hat DECIMAL(10,2),
+    Sale_Date DATE
+);
+
 -- STEP 2: Add Created data 
 INSERT INTO nfl_jersey_sales
     (Sale_ID, Player_Name, Team, Quantity_Sold, Price_Per_Jersey, Region, Sale_Date)
