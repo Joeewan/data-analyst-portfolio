@@ -59,6 +59,25 @@ VALUES
     (29, 'Bijan Robinson', 'Atlanta Falcons', 3, 114.99, 'Southeast', '2026-01-25'),
     (30, 'Jayden Daniels', 'Washington Commanders', 3, 109.99, 'East Coast', '2026-02-02');
 
+INSERT INTO nfl_hat_sales (Sale_ID, Team, Region, Quantity_Sold, Price_Per_Hat, Sale_Date)
+
+VALUES
+(1, 'Chiefs', 'Midwest', 40, 24.99, '2024-07-15'),
+(2, 'Packers', 'Midwest', 35, 22.99, '2024-07-15'),
+(3, 'Seahawks', 'West', 25, 23.99, '2024-08-02'),
+(4, 'Rams', 'West', 30, 21.99, '2024-08-03'),
+(5, 'Cowboys', 'South', 38, 25.50, '2024-08-05'),
+(6, 'Bengals', 'Midwest', 28, 21.99, '2024-08-10'),
+(7, 'Browns', 'Midwest', 33, 23.50, '2024-08-12'),
+(8, 'Colts', 'Midwest', 29, 22.75, '2024-08-15'),
+(9, 'Patriots', 'Northeast', 32, 26.99, '2024-08-15'),
+(10, 'Eagles', 'Northeast', 30, 25.49, '2024-08-20'),
+(11, 'Bills', 'Northeast', 27, 23.50, '2024-08-22'),
+(12, 'Raiders', 'West', 36, 24.75, '2024-08-25'),
+(13, 'Steelers', 'Northeast', 31, 24.25, '2024-09-01'),
+(14, 'Saints', 'South', 28, 23.99, '2024-09-05'),
+(15, 'Dolphins', 'South', 34, 25.25, '2024-09-08');
+
 -- ============================================
 -- STEP 3: ANALYTICAL QUERIES
 -- ============================================
