@@ -1,0 +1,39 @@
+# NFL Jersey Sales Analysis Project
+
+## Overview
+This project demonstrates SQL skills applied to a realistic dataset of NFL jersey sales for the 2025 season.  
+The analysis includes player-level, team-level, and regional-level sales insights, as well as monthly trends.
+
+**Purpose:**  
+- To practice SQL queries such as aggregation, filtering, sorting, and grouping.  
+- To prepare a portfolio project that highlights analytical thinking and data manipulation skills.  
+
+---
+
+## Dataset
+
+**Table:** `nfl_jersey_sales`
+
+| Column Name       | Description                                         |
+|------------------|-----------------------------------------------------|
+| Sale_ID           | Unique identifier for each sale                     |
+| Player_Name       | Name of the NFL player                               |
+| Team              | NFL team of the player                               |
+| Quantity_Sold     | Number of jerseys sold                               |
+| Price_Per_Jersey  | Price of one jersey (USD)                            |
+| Region            | Region where the sale occurred                       |
+| Sale_Date         | Date of the sale (YYYY-MM-DD)                        |
+
+**Total Records:** 30  
+
+**Notable Players:** Patrick Mahomes, Jalen Hurts, Cooper Kupp, Jared Verse, Jonathan Taylor, Micah Parsons
+
+**Regions Covered:** East Coast, Northeast, Midwest, South, Southeast, West Coast
+
+---
+
+## SQL Queries and Insights
+
+1. **View All Sales Data**
+```sql
+SELECT * FROM nfl_jersey_sales;
