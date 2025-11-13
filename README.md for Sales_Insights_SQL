@@ -1,6 +1,7 @@
-# NFL Jersey Sales Analysis Project
+# 🏈 NFL Merchandise Sales Analysis
 
-## Overview
+
+##Overview 📘
 This project demonstrates SQL skills applied to a realistic dataset of NFL jersey sales for the 2025 season.  
 The analysis includes player-level, team-level, and regional-level sales insights, as well as monthly trends.
 
@@ -10,7 +11,7 @@ The analysis includes player-level, team-level, and regional-level sales insight
 
 ---
 
-## Dataset
+## Database 🧱
 
 **Table:** `nfl_jersey_sales`
 
