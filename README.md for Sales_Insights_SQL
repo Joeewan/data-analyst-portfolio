@@ -30,6 +30,20 @@ The analysis includes player-level, team-level, and regional-level sales insight
 
 **Regions Covered:** East Coast, Northeast, Midwest, South, Southeast, West Coast
 
+
+### 2. Table: `nfl_hat_sales`
+
+| Column Name       | Description                                         |
+|------------------|-----------------------------------------------------|
+| Sale_ID           | Unique identifier for each hat sale                 |
+| Team              | NFL team associated with the hat                    |
+| Quantity_Sold     | Number of hats sold                                 |
+| Price_Per_Hat     | Price of one hat (USD)                              |
+| Region            | Region where the sale occurred                      |
+| Purchase_Date     | Date of the hat sale (YYYY-MM-DD)                   |
+
+> Note: The **team names match** between both tables to allow relational joins and cross-product analysis.
+
 ---
 
 ## SQL Queries and Insights
