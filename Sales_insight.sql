@@ -137,3 +137,16 @@ JOIN nfl_hat_sales h
 GROUP BY j.Team
 ORDER BY Total_Revenue DESC;
 
+
+-- 7 Total Revenue Between Hats and Jersey by Region
+
+SELECT 
+	j.region,
+    SUM(j.Quantity_Sold * j.Price_Per_Jersey) AS Jersey_Total,
+    SUM(h.Quantity_Sold * h.Price_Per_Hat) AS Hat_Total,
+    SUM(j.Quantity_Sold * j.Price_Per_Jersey + h.Quantity_Sold * h.Price_Per_Hat) AS Region_Total
+FROM nfl_jersey_sales j
+JOIN nfl_hat_sales h
+	ON j.region = h.region 
+GROUP BY j.region
+ORDER BY Region_Total DESC;
