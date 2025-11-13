@@ -1,7 +1,7 @@
 -- ============================================
 -- NFL Jersey Sales Analysis Project
 -- Author: Joseph Ewan
--- Purpose: Analyze jersey sales performance by player, team, region, and time
+-- Purpose: Analyze jersey and hat sales performance by player, team, region, and time
 -- ============================================
 
 -- STEP 1: Create table 
