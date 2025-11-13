@@ -7,7 +7,7 @@ Each project focuses on solving real-world problems, cleaning and analyzing data
 
 🧱 SQL Projects
 
- 🏈 **NFL Jersey Sales Analysis**
+ 🏈 **NFL Jersey and Hat Sales Analysis**
 Analyze jersey sales data across NFL teams and players to identify revenue trends and top-performing regions.  
 **Skills:** Joins, Aggregations, Subqueries, CTEs, and Data Validation.  
 📂 Folder: `SQL_Projects/NFL_Jersey_Sales_Analysis`
