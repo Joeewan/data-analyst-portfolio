@@ -5,29 +5,5 @@
 This project simulates a **computer inventory and sales database**.  
 It tracks different types of computers (Laptops, Desktops, Workstations, Tablets, etc.), their **brands, models, prices, and categories**, and analyzes **sales data** over time.
 
-The goal is to demonstrate SQL **data modeling**, **joins**, and **aggregate analysis** for a realistic retail scenario.
+The goal is to demonstrate Python data analysis and visualization for a  realistic retail scenario.
 
----
-
-## Database Structure 🧱
-
-### 1. Table: `computer_inventory`
-
-| Column Name  | Description                                      |
-|--------------|--------------------------------------------------|
-| Computer_ID  | Unique identifier for each computer             |
-| Brand        | Brand of the computer (Dell, HP, Apple, etc.)  |
-| Model        | Model name/number                               |
-| Type         | Type of computer (Laptop, Desktop, Workstation, Tablet) |
-| Price        | Price of one unit (USD)                         |
-| Category     | Computer category (Gaming, Business, Education, Professional, Home) |
-
-### 2. Table: `computer_sales`
-
-| Column Name  | Description                                      |
-|--------------|--------------------------------------------------|
-| Sale_ID      | Unique identifier for each sale                  |
-| Computer_ID  | Foreign key linking to `computer_inventory`     |
-| Quantity_Sold| Number of units sold                             |
-| Sale_Date    | Date of sale (YYYY-MM-DD)                        |
-| Category     | Computer category (Gaming, Business, Education, Professional, Home) |
