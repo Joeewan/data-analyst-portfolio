@@ -2,12 +2,19 @@
 
 
 ##Overview 📘
-This project demonstrates SQL skills applied to a realistic dataset of NFL jersey sales for the 2025 season.  
-The analysis includes player-level, team-level, and regional-level sales insights, as well as monthly trends.
+This project demonstrates the application of  SQL skills to a simulated dataset of NFL jersey sales for the 2025 season.  
+The analysis provides player-level, team-level, and regional-level sales insights, as well as monthly trends.
 
 **Purpose:**  
 - To practice SQL queries such as aggregation, filtering, sorting, and grouping.  
 - To prepare a portfolio project that highlights analytical thinking and data manipulation skills.  
+- Aim to analyze business performance through the NFL shop simulation and determine which products bring in the most profit and which would need a revised sales idea. 
+- The SQL Project aims to answer the following questions:
+
+Which Regions of sale appear to generate the most profit for the NFL Shop, considering both jersey and hat sales?
+Which NFL Teams bring in the Most and Least profit, and analyze how the NFL can minimize the gap between the two teams. 
+Query 5: How to evaluate which NFL Player is currently selling the most jerseys and how the NFL shop can capitalize on the surge. 
+Which NFL team, over time, is selling the most merchandise as well as bringing in the most long-term profit?
 
 ---
 
@@ -44,6 +51,7 @@ The analysis includes player-level, team-level, and regional-level sales insight
 | Purchase_Date     | Date of the hat sale (YYYY-MM-DD)                   |
 
 > Note: The **team names match** between both tables to allow relational joins and cross-product analysis.
+
 
 ---
 
