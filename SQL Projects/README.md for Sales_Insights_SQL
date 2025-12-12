@@ -12,7 +12,7 @@ The analysis provides player-level, team-level, and regional-level sales insight
 - The SQL Project aims to answer the following questions:
 
 Query 7: Which Regions of sale appear to generate the most profit for the NFL Shop, considering both jersey and hat sales?
-Which NFL Teams bring in the Most and Least profit, and analyze how the NFL can minimize the gap between the two teams. 
+Query 6: Which NFL Teams bring in the Most and Least profit, and analyze how the NFL can minimize the gap between the two teams. 
 Query 5: How to evaluate which NFL Player is currently selling the most jerseys and how the NFL shop can capitalize on the surge. 
 Which NFL team, over time, is selling the most merchandise as well as bringing in the most long-term profit?
 
