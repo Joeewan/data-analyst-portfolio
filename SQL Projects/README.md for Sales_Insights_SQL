@@ -55,8 +55,8 @@ Which NFL team, over time, is selling the most merchandise as well as bringing i
 
 ---
 
-## SQL Queries and Insights
+## Answers to Queries and Information Gained
 
-1. **View All Sales Data**
-```sql
-SELECT * FROM nfl_jersey_sales;
+
+
+
