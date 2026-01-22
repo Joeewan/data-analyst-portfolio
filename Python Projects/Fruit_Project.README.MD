@@ -25,3 +25,10 @@ This project demonstrates exploratory data analysis (EDA) on a simulated fruit s
 - Total Revenue by Region (Bar Chart)
 - Monthly Revenue Trend (Line Chart)
 - Total Revenue and Units Sold by Fruit (Bar Charts)
+
+
+## Tools and Skills
+- Python, Pandas, NumPy
+- Matplotlib, Seaborn
+- Data cleaning, aggregation, visualization
+- Business insights and actionable recommendations
