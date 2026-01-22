@@ -1,17 +1,28 @@
-This project demonstrates a comprehensive exploratory data analysis (EDA) on a simulated fruit sales dataset of 500 transactions across multiple regions and seasons.
-The analysis focuses on understanding overall sales patterns, revenue trends over time, top-performing products, and regional performance. 
-Key insights include monthly revenue trends, identification of fruits driving the highest revenue and units sold, and the impact of pricing and seasonality on sales. 
-Visualizations such as bar charts and line graphs were used to clearly communicate findings. This project showcases skills in data cleaning, 
-aggregation, visualization, trend analysis, and business interpretation, providing actionable insights that could guide inventory management, marketing focus, and sales strategies in a real-world business context.
+# Fruit Sales Analysis Project
 
+## Project Overview
+This project demonstrates exploratory data analysis (EDA) on a simulated fruit sales dataset. It explores revenue trends, sales performance by fruit and region, seasonal patterns, and actionable insights.
 
+## Dataset
+- 500 transactions
+- Columns include: Fruit, Region, Date, Season, Units Sold, Unit Price, Revenue
 
+## Analysis Questions
+1. What are the overall sales and revenue patterns in the dataset?
+2. Which regions generate the most revenue?
+3. How does fruit sales revenue change over time throughout the year?
+4. Which fruits contribute the most to total revenue and units sold?
+5. Is there a relationship between unit price and units sold?
+7. What actionable recommendations can improve sales across regions and seasons?
 
-Analysis #3
+## Key Findings
+- Monthly revenue shows seasonal trends, peaking during summer months.
+- North and Tropical regions generate the highest revenue overall.
+- Top-selling fruits include Mango, Apple, and Banana, contributing disproportionately to total revenue.
+- Higher-priced fruits tend to sell fewer units but generate higher revenue per item.
+- A small number of fruits dominate revenue, suggesting targeted marketing and inventory strategies.
 
-
-
-To understand sales performance over time, revenue was analyzed across the calendar year. 
-By grouping daily sales data by month, we can identify overall trends and potential seasonality patterns that may impact fruit sales.
-
-Analysis #4
+## Visualizations
+- Total Revenue by Region (Bar Chart)
+- Monthly Revenue Trend (Line Chart)
+- Total Revenue and Units Sold by Fruit (Bar Charts)
