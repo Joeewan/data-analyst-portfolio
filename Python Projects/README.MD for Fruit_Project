@@ -1,0 +1,5 @@
+This project demonstrates a comprehensive exploratory data analysis (EDA) on a simulated fruit sales dataset of 500 transactions across multiple regions and seasons.
+The analysis focuses on understanding overall sales patterns, revenue trends over time, top-performing products, and regional performance. 
+Key insights include monthly revenue trends, identification of fruits driving the highest revenue and units sold, and the impact of pricing and seasonality on sales. 
+Visualizations such as bar charts and line graphs were used to clearly communicate findings. This project showcases skills in data cleaning, 
+aggregation, visualization, trend analysis, and business interpretation, providing actionable insights that could guide inventory management, marketing focus, and sales strategies in a real-world business context.
