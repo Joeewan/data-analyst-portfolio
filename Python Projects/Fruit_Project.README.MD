@@ -1,7 +1,7 @@
 # Fruit Sales Analysis Project
 
 ## Project Overview
-This project demonstrates exploratory data analysis (EDA) on a simulated fruit sales dataset. It explores revenue trends, sales performance by fruit and region, seasonal patterns, and actionable insights.
+This project demonstrates exploratory data analysis (EDA) on a simulated fruit sales dataset created to reflect realistic retail sales activity. The analysis focuses on identifying revenue trends, evaluating sales performance by fruit and region, and examining seasonal patterns throughout the year. Using data aggregation and visualization techniques, the project aims to uncover actionable insights that could support business decisions related to inventory planning, pricing strategy, and regional sales optimization.
 
 ## Dataset
 - 500 transactions
