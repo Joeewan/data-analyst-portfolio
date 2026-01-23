@@ -21,7 +21,7 @@ Explore NFL performance statistics to uncover insights on offensive and defensiv
 
  🐍 Python Projects
 
- 🍎 **Fruit Sales Cleaning & Analysis**
+ 🍎 **Fruit Sales Analysis**
 A data cleaning and exploratory analysis project using a fruit sales dataset to uncover trends in pricing and regional distribution.  
 **Skills:** Pandas, Data Cleaning, Visualization with Seaborn & Matplotlib.  
 📂 Folder: `Python_Projects/Fruit_Sales_Cleaning_Analysis`
