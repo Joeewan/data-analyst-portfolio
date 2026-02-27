@@ -12,11 +12,6 @@ Analyze jersey sales data across NFL teams and players to identify revenue trend
 **Skills:** Joins, Aggregations, Subqueries, CTEs, and Data Validation.  
 📂 Folder: `SQL_Projects/NFL_Jersey_Sales_Analysis`
 
- 🏟️ **NFL Sports Data Analysis**
-Explore NFL performance statistics to uncover insights on offensive and defensive leaders throughout multiple seasons.  
-**Skills:** SQL Joins, GROUP BY, Filtering, and Reporting.  
-📂 Folder: `SQL_Projects/NFL_Sports_Data_Analysis`
-
 ---
 
  🐍 Python Projects
@@ -26,10 +21,11 @@ A data cleaning and exploratory analysis project using a fruit sales dataset to 
 **Skills:** Pandas, Data Cleaning, Visualization with Seaborn & Matplotlib.  
 📂 Folder: `Python_Projects/Fruit_Sales_Cleaning_Analysis`
 
- 🛒 **Grocery Shopping Insights**
-Analyze customer grocery shopping behavior, frequency, and spending patterns to identify opportunities for marketing and inventory improvements.  
-**Skills:** EDA, Pandas, Data Visualization, Customer Segmentation.  
-📂 Folder: `Python_Projects/Grocery_Shopping_Insights`
+ 📊 **Credit Risk Analysis & Loan Default Prediction**
+A financial institution wants to reduce loan defaults by identifying high-risk applicants before approval. Analyze patterns behind loan defaults
+Identify key risk factors and build a model to predict default probability while providing recommendations
+**Skills:** EDA, Pandas, Data Visualization, Data Preprocessing 
+📂 Folder: `Python_Projects/Credit_Risk_Analysis`
 
 ---
 
