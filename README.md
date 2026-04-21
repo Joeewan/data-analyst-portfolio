@@ -38,6 +38,8 @@ To be filled in
 
  🏠 **Shopping Trends in the United States**
 
+ Cleaned and transformed the dataset in Excel (handled missing values, created age groups, and built pivot tables), then developed an interactive dashboard in IBM Cognos Analytics for visualization and exploration.
+
  **Skills:** Excel Sheets, Pivot Tables, Data Visualization
 
 
