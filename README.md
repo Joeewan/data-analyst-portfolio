@@ -1,7 +1,7 @@
 # 📊 Joseph Ewan - Data Analyst Portfolio
 
-Welcome to my **Data Analyst Portfolio** — a collection of projects demonstrating my skills in SQL, Python, and data visualization.  
-Each project focuses on solving real-world problems, cleaning and analyzing data, and communicating insights effectively.
+Welcome to my **Data Analyst Portfolio** — a collection of projects demonstrating my skills in SQL, Python, and data visualization/analysis.  
+Each project focuses on solving real-world problems, cleaning and analyzing data, and communicating insights effectively using real-world data sets.
 
 ---
 
@@ -21,20 +21,25 @@ A data cleaning and exploratory analysis project using a fruit sales dataset to 
 **Skills:** Pandas, Data Cleaning, Visualization with Seaborn & Matplotlib.  
 📂 Folder: `Python_Projects/Fruit_Sales_Cleaning_Analysis`
 
- 📊 **Credit Risk Analysis & Loan Default Prediction**
-A financial institution wants to reduce loan defaults by identifying high-risk applicants before approval. Analyze patterns behind loan defaults
-Identify key risk factors and build a model to predict default probability while providing recommendations
+ 📊 **Shopping trends in the US Analysis**
+
 **Skills:** EDA, Pandas, Data Visualization, Data Preprocessing 
 📂 Folder: `Python_Projects/Credit_Risk_Analysis`
 
 ---
 
- 📈 Visualization Projects
+ 📈 Excel Analysis and Visualization Projects
+Real-world datasets should be cleaned, validated, and analyzed to find significant patterns and useful information. To support a variety of corporate use cases, transform and organize data using a variety of approaches, allowing for data-driven strategic planning and decision-making.
 
- 🏠 **Housing Price Modeling**
-Build and visualize a machine learning model predicting housing prices based on key features like location and size.  
-**Skills:** Regression Modeling, Feature Engineering, Matplotlib Visualizations.  
-📂 Folder: `Visualization_Projects/Housing_Price_Modeling`
+**Global Wine Reviews**
+
+To be filled in
+
+
+ 🏠 **Shopping Trends in the United States**
+
+ **Skills:** Excel Sheets, Pivot Tables, Data Visualization
+
 
 🏬 **Sam’s Club Customer Retention & Sales Dashboard**
 An interactive Tableau dashboard visualizing customer retention trends, sales growth, and regional performance metrics.  
@@ -46,14 +51,15 @@ An interactive Tableau dashboard visualizing customer retention trends, sales gr
 🧰 Tools & Technologies
 - **Languages:** Python, SQL  
 - **Libraries:** Pandas, NumPy, Seaborn, Matplotlib  
-- **Visualization** Tools: Tableau, Power BI, Excel  
-- **Databases:** MySQL, PostgreSQL  
+- **Visualization** Tools: Tableau, Power BI, Excel, Cognosis Analysis  
+- **Databases:** MySQL,  
 - **Version Control**: Git & GitHub  
 
 ---
 
  🧠 Learning Focus
-As an aspiring Data Analyst, I’m passionate about using data to drive decision-making, create actionable insights, and visualize meaningful patterns across industries.
+As an aspiring Data Analyst, I am aiming to display my knowledge in analyzing data and answering business-driven questions to help others understand their data on a deeper level. 
+Through this porfolio, I will showcase my skills in different aspects to showcase my skills over a series of projects based on real-world datasets
 
 ---
 
