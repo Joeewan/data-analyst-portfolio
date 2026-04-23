@@ -2,7 +2,7 @@ Created Read me File for Excel visualization
 
 This dashboard analyzes customer purchasing behavior across states, payment methods, and seasonal trends.
 
-
+![ShoppingAge_Dashboard](ShoppingAge_Dashboard.png)
 
 
 
