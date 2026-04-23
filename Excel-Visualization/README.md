@@ -5,6 +5,9 @@ This dashboard analyzes customer purchasing behavior across states, payment meth
 ![ShoppingAge_Dashboard](ShoppingAge_Dashboard.png)
 
 
+This analysis reveals distinct regional and demographic trends in consumer purchasing behavior. The Young age group contributes the least, while the Senior and Midlife age groups have the largest purchase activity, suggesting that older consumers have more purchasing power. Across all product categories, male consumers consistently produce larger purchase volumes, especially for products like belts and backpacks. The age distribution of customers varies by state, according to geographic study, with some areas—most notably Texas, California, and Florida—showing higher purchasing intensity and a wider range of age involvement. Overall, the heatmap confirms that location and age have a significant impact on purchase behavior, with clear regional and demographic variations influencing total sales success.
+
+
 
 
 ![Shopping Dashboard](Shopping_Dashboard.png)
