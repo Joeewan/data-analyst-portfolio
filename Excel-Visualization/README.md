@@ -5,16 +5,18 @@ This dashboard analyzes customer purchasing behavior across states, payment meth
 ![ShoppingAge_Dashboard](ShoppingAge_Dashboard.png)
 
 
-This analysis reveals distinct regional and demographic trends in consumer purchasing behavior. The Young age group contributes the least, while the Senior and Midlife age groups have the largest purchase activity, suggesting that older consumers have more purchasing power. Across all product categories, male consumers consistently produce larger purchase volumes, especially for products like belts and backpacks. The age distribution of customers varies by state, according to geographic study, with some areas—most notably Texas, California, and Florida—showing higher purchasing intensity and a wider range of age involvement. Overall, the heatmap confirms that location and age have a significant impact on purchase behavior, with clear regional and demographic variations influencing total sales success.
+- This analysis reveals distinct regional and demographic trends in consumer purchasing behavior. The Young age group contributes the least, while the Senior and Midlife age groups have the largest purchase activity, suggesting that older consumers have more purchasing power.
+- Across all product categories, male consumers consistently produce larger purchase volumes, especially for products like belts and backpacks. The age distribution of customers varies by state, according to a geographic study, with some areas—most notably Texas, California, and Florida—showing higher purchasing intensity and a wider range of age involvement.
+- Overall, the heatmap confirms that location and age have a significant impact on purchase behavior, with clear regional and demographic variations influencing total sales success.
 
 
 
 
 ![Shopping Dashboard](Shopping_Dashboard.png)
 
-There is a significant gender-based purchasing disparity in Missouri, where male consumers make 73.3% larger purchases than female consumers.
-West Virginia is the biggest contributing location, indicating concentrated high-value purchasing in particular areas. Overall, male customers provide the largest total purchase amount.
-According to a review of payment methods, credit cards account for about $43K in sales, with Venmo coming in second at about $40K. This indicates that both traditional and digital payment methods are widely used.
+-There is a significant gender-based purchasing disparity in Missouri, where male consumers make 73.3% larger purchases than female consumers.
+-West Virginia is the biggest contributing location, indicating concentrated high-value purchasing in particular areas. Overall, male customers provide the largest total purchase amount.
+-According to a review of payment methods, credit cards account for about $43K in sales, with Venmo coming in second at about $40K. This indicates that both traditional and digital payment methods are widely used.
 
 
 Here is the link to my IBM Cogno Analytics Dashboards for Shopping Trends in the United States. 
