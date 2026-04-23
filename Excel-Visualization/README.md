@@ -1,5 +1,8 @@
 Created Read me File for Excel visualization
 
+![Shopping Dashboard](Excel-Visualization/Shopping_Dashboard.png)
+
+
 
 Here is the link to my IBM Cogno Analytics Dashboard for Shopping Trends in the United States. 
 
