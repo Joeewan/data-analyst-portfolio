@@ -9,12 +9,15 @@ This dashboard analyzes customer purchasing behavior across states, payment meth
 ## 👥 2. Age Group Analysis
 
 
-![Shopping Dashboard](Shopping_Dashboard.png)
+![ShoppingAge_Dashboard](ShoppingAge_Dashboard.png)
+
 
 **Key Insights:**
-- Customers aged 25–34 are the highest spending group
-- Younger customers show higher engagement with digital payment methods
-- Older groups prefer traditional purchasing channels
+- Customers aged 25–34 are the highest spending group. This group, labeled as Adults, has made a total of 2,462 among all age groups in the DataSet. 
+- The Heat Map shows that the Age Group Seniors in Montana is the highest contributing Group in that State.   
+- The Blouse has the highest Purchase Amount at over 10 thousand, out of which the age group midlife contributed the most at over 2,500.
+
+**Additional Insights:**
 
 
 - This analysis reveals distinct regional and demographic trends in consumer purchasing behavior. The Young age group contributes the least, while the Senior and Midlife age groups have the largest purchase activity, suggesting that older consumers have more purchasing power.
@@ -25,11 +28,11 @@ This dashboard analyzes customer purchasing behavior across states, payment meth
 
 ## 🛒 3. Purchase Behavior Dashboard
 
-![ShoppingAge_Dashboard](ShoppingAge_Dashboard.png)
+![Shopping Dashboard](Shopping_Dashboard.png)
 
 **Key Insights:**
-- Credit cards are the most used payment method
-- Seasonal trends significantly impact spending behavior
+- Credit cards are the most used payment method, with 42,567 uses across all payment methods. 
+- Across all seasons, Men are dominating sales, with Winter being the most profitable season for men, with 40,247 purchases. For Women, Fall appears to be their most profitable season with 20,193 purchases.
 - Geographic differences show strong regional variation in sales
 
 **Additional Insights:**
