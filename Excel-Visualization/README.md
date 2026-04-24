@@ -2,6 +2,12 @@ Created Read me File for Excel visualization
 
 This dashboard analyzes customer purchasing behavior across states, payment methods, and seasonal trends.
 
+
+
+
+
+## 🛒 3. Purchase Behavior Dashboard
+
 ![ShoppingAge_Dashboard](ShoppingAge_Dashboard.png)
 
 
@@ -10,6 +16,10 @@ This dashboard analyzes customer purchasing behavior across states, payment meth
 - Overall, the heatmap confirms that location and age have a significant impact on purchase behavior, with clear regional and demographic variations influencing total sales success.
 
 
+
+
+
+## 👥 2. Age Group Analysis
 
 
 ![Shopping Dashboard](Shopping_Dashboard.png)
