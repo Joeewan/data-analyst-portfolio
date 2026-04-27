@@ -1,3 +1,6 @@
+# Business Data Analytics & Dashboard Portfolio
+
+
 I have created data dashboards that address actual business inquiries by going beyond visuals. I've prepared raw datasets for analysis by cleaning and organizing them using applications such as Excel and Cognos Analytics, transforming them into insightful tables and visualizations. I've analyzed thousands of client records for several projects in order to gain insights into customer experience, purchase patterns, and spending amounts. Thus, identifying business trends, assessing tactics including discounting, and transforming data into understandable, insightful information for end users. 
 
 ##  1. KPI DashBoard
