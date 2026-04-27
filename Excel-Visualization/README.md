@@ -2,7 +2,10 @@ Created Read me File for Excel visualization
 
 This dashboard analyzes customer purchasing behavior across states, payment methods, and seasonal trends.
 
+##  1. KPI DashBoard
 
+
+![ShoppingKPI dashboard](ShoppingKPI_dashboard.png)
 
 
 
