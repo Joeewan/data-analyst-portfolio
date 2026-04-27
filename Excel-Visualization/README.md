@@ -1,11 +1,18 @@
-Created Read me File for Excel visualization
-
-This dashboard analyzes customer purchasing behavior across states, payment methods, and seasonal trends.
+I have created data dashboards that address actual business inquiries by going beyond visuals. I've prepared raw datasets for analysis by cleaning and organizing them using applications such as Excel and Cognos Analytics, transforming them into insightful tables and visualizations. I've analyzed thousands of client records for several projects in order to gain insights into customer experience, purchase patterns, and spending amounts. Thus, identifying business trends, assessing tactics including discounting, and transforming data into understandable, insightful information for end users. 
 
 ##  1. KPI DashBoard
 
 
 ![ShoppingKPI dashboard](ShoppingKPI_dashboard.png)
+
+**Key Insights:**
+- There are over 200,000 purchases from this dataset.
+- The average rating across all purchases is 3.75 out of 5 stars
+- The amount of purchases that did not use discounts compared to those who do is 25.6%
+- Business is not overly dependent on discounts based on Promo Code usage
+
+
+
 
 
 
@@ -26,6 +33,10 @@ This dashboard analyzes customer purchasing behavior across states, payment meth
 - This analysis reveals distinct regional and demographic trends in consumer purchasing behavior. The Young age group contributes the least, while the Senior and Midlife age groups have the largest purchase activity, suggesting that older consumers have more purchasing power.
 - Across all product categories, male consumers consistently produce larger purchase volumes, especially for products like belts and backpacks. The age distribution of customers varies by state, according to a geographic study, with some areas—most notably Texas, California, and Florida—showing higher purchasing intensity and a wider range of age involvement.
 - Overall, the heatmap confirms that location and age have a significant impact on purchase behavior, with clear regional and demographic variations influencing total sales success.
+
+
+
+
 
 
 
