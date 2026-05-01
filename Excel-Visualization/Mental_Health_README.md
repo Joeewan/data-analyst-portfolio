@@ -6,6 +6,10 @@ This project uses a structured dataset of individuals in various age groups to 
 This project aims to find significant patterns and connections between behavioral characteristics and mental health, specifically investigating if greater use of social media is linked to elevated stress levels and general mental health risk. This project provides both high-level KPIs and in-depth analytical views to support data-driven insights by utilizing IBM Cognos Analytics for visualization and Excel for data preparation.
 
 
+
+##Mental Health KPI##
+
+
 ![MentalHealthPKI](MentalHealthKPI.png)
 
 
