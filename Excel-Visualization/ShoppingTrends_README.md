@@ -55,11 +55,11 @@ I have created data dashboards that address actual business inquiries by going
 
 **Additional Insights:**
 
-*There is a significant gender-based purchasing disparity in Missouri, where male consumers make 73.3% larger purchases than female consumers.
+* There is a significant gender-based purchasing disparity in Missouri, where male consumers make 73.3% larger purchases than female consumers.
 
-*West Virginia is the biggest contributing location, indicating concentrated high-value purchasing in particular areas. Overall, male customers provide the largest total purchase amount.
+* West Virginia is the biggest contributing location, indicating concentrated high-value purchasing in particular areas. Overall, male customers provide the largest total purchase amount.
 
-*According to a review of payment methods, credit cards account for about $43K in sales, with Venmo coming in second at about $40K. This indicates that both traditional and digital payment methods are widely used.
+* According to a review of payment methods, credit cards account for about $43K in sales, with Venmo coming in second at about $40K. This indicates that both traditional and digital payment methods are widely used.
 
 
 
