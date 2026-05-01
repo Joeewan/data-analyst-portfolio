@@ -34,3 +34,10 @@ This project aims to find significant patterns and connections between behaviora
 - The Age groups Young and Adult have the highest Mental Health scores, indicating that they have the highest mental health scores in the data set.
 - There is a positive relationship between stress levels and overall mental health scores.
 - Social media has around the same amount of impact for men and women on their Mental health Scores
+
+
+
+
+Here is a Link to View My DashBoard on IBM Cognos Analytics
+
+https://us3.ca.analytics.ibm.com/bi/?perspective=dashboard&pathRef=.my_folders%2FPortfolio%2BAnalysis%2FMental%2BHealth%2BDashboard&action=view&mode=dashboard&subView=model0000019de07edb9a_00000004&nav_filter=true
