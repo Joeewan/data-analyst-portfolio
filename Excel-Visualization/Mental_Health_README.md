@@ -1,4 +1,4 @@
-# 🧠📊 Mental Health Data
+# 🧠📊 Mental Health Data Analysis: Mental Health Trends
 
 
 This project uses a structured dataset of individuals in various age groups to investigate the relationship between social media use and mental health outcomes. In order to present a more comprehensive picture of general well-being, the research focuses on important markers, including stress levels, anxiety, and depression, which were aggregated into a composite Mental Health Score. A deeper awareness of trends in the data was made possible by additional transformations, such as grouping users into low, moderate, and high usage groups and classifying people into risk categories.
