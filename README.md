@@ -31,7 +31,7 @@ A data cleaning and exploratory analysis project using a fruit sales dataset to 
  📈 Excel Analysis and Visualization Projects
 Real-world datasets should be cleaned, validated, and analyzed to find significant patterns and useful information. To support a variety of corporate use cases, transform and organize data using a variety of approaches, allowing for data-driven strategic planning and decision-making.
 
-**Global Wine Reviews**
+**Mental Health Analysis**
 
 To be filled in
 
@@ -40,13 +40,7 @@ To be filled in
 
  Cleaned and transformed the dataset in Excel (handled missing values, created age groups, and built pivot tables), then developed an interactive dashboard in IBM Cognos Analytics for visualization and exploration.
 
- **Skills:** Excel Sheets, Pivot Tables, Data Visualization
-
-
-🏬 **Sam’s Club Customer Retention & Sales Dashboard**
-An interactive Tableau dashboard visualizing customer retention trends, sales growth, and regional performance metrics.  
-**Skills:** Tableau, KPI Visualization, Data Storytelling.  
-📂 Folder: `Visualization_Projects/SamsClub_Customer_Retention_Sales_Dashboard`
+ **Skills:** Excel Sheets, Pivot Tables, Data Visualization, Data Analysis
 
 ---
 
