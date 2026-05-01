@@ -26,3 +26,11 @@ This project aims to find significant patterns and connections between behaviora
 ## 🗂️ Mental Health Score Dashboard ##
 
 ![MentalHealthScore](MentalHealthScore.png)
+
+
+
+
+- Among users who were reported to have a high risk level of stress, the most contributing gender was the females in that respective group.
+- The Age groups Young and Adult have the highest Mental Health scores, indicating that they have the highest mental health scores in the data set.
+- There is a positive relationship between stress levels and overall mental health scores.
+- Social media has around the same amount of impact for men and women on their Mental health Scores
