@@ -14,7 +14,9 @@ This project aims to find significant patterns and connections between behaviora
 
 
 -The Elder Age Group has the lowest Mental Health Score at 5.0, while the Young Age Group has the highest Mental Health Score of 5.4. 
+
 -According to the data, Adult Men have around 8.5% higher stress level scores compared to Adult Women.
+
 -Men in general exceed Females in their Mental Health Scores by 1.9%. Displaying that Men are slightly more stressed out than Females.
 
 
